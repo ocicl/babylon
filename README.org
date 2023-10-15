@@ -4,6 +4,6 @@ Generative AI Workbench for Common Lisp
 
 |---------+-----------------------------------------------|
 | source  | git:https://github.com/thephoeron/babylon.git |
-| commit  | 4725afe                                       |
+| commit  | ca752d1                                       |
 | systems | babylon                                       |
 |---------+-----------------------------------------------|
